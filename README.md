@@ -6,7 +6,7 @@
 
 A starting point for independently developed plugins, with a standard README presentation and a strict, reusable source-to-artifact verification workflow.
 
-[![Platform](https://img.shields.io/badge/Platform-Plugin_Development-FF1744?style=flat-square)](https://github.com/l00p3rl00p/qdev-generic-plugins) [![Code](https://img.shields.io/badge/Code-Verified_Artifacts-00D6C2?style=flat-square)](.github/workflows/strict-plugin-package.yml) [![Workflow](https://img.shields.io/badge/Packaging-GitHub_Actions-8B5CF6?style=flat-square&logo=githubactions&logoColor=white)](.github/workflows/strict-plugin-package.yml)
+[![Scope](https://img.shields.io/badge/Scope-Plugin_Templates-FF1744?style=flat-square)](https://github.com/l00p3rl00p/qdev-generic-plugins) [![Contract](https://img.shields.io/badge/Contract-Release_Artifacts-00D6C2?style=flat-square)](.github/workflows/strict-plugin-package.yml) [![Workflow](https://img.shields.io/badge/Packaging-GitHub_Actions-8B5CF6?style=flat-square&logo=githubactions&logoColor=white)](.github/workflows/strict-plugin-package.yml)
 
 **Explore the project**
 
